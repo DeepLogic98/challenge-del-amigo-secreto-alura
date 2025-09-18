@@ -1,14 +1,37 @@
-<h1> # Challenge del amigo secreto (Programa ONE Alura latam)</h1>
-Autor: Facundo Ezequiel Rivarola - Fecha 16 de septiembre de 2025<br></br>
+# Challenge del amigo secreto
 
-<h2>Descripción</h2>
-<p>Esta aplicacion ofrece la funcion de poder ingresar los disntintos nombres de un grupo de amigos para luego realizar un sorteo y asi poder determinar un "amigo secreto" de forma aleatoria.</p>
+<p align="center">Programa ONE Alura Latam</p>
+<p align="center">Autor: Facundo Ezequiel Rivarola - Fecha: 16 de septiembre de 2025</p>
 
-<h2>Objetivos</h2>
-<P>Este challenge tiene como objetivo poner en practica lo aprendido en las clases de "logica de programacion" de Alura latam.</P>
+### Descripción
 
-<h2>Funcionalidades de la aplicacion</h2>
-<p>*Ingreso de nombres a sortear.</p>
-<p>*Sorteo aleatorio.</p>
-<p>*Validacion de entrada. (se va a alertar al usuario sobre el ingreso de texto vacio)</p>
-<p>*Visualizacion de la lista de nombres.</p>
+<p>Esta aplicación ofrece la función de poder ingresar los distintos nombres de un grupo de amigos para luego realizar un sorteo y así poder determinar un "amigo secreto" de forma aleatoria.</p>
+
+### Objetivos
+
+<p>Este challenge tiene como objetivo poner en práctica lo aprendido en las clases de "Lógica de programación" de Alura Latam.</p>
+
+### Funcionalidades de la aplicación
+
+<ul>
+    <li>Ingreso de nombres a sortear.</li>
+    <li>Sorteo aleatorio.</li>
+    <li>Validación de entrada (se va a alertar al usuario sobre el ingreso de texto vacío).</li>
+    <li>Visualización de la lista de nombres.</li>
+</ul>
+
+<p>Funcionalidades adicionales implementadas en este proyecto:</p>
+  <ul>
+      <li>Agregar un nombre presionando la tecla Enter.</li>
+      <li>Realizar el sorteo presionando la tecla S.</li>
+      <li>Reiniciar el juego presionando la tecla R.</li>
+  </ul>
+
+### Créditos y aclaraciones
+
+<p>Los siguientes archivos fueron proporcionados por Alura Latam:</p>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Imágenes</li>
+</ul>
